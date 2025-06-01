@@ -7,7 +7,6 @@ function App() {
     <main>
       {/* Hero Section */}
       <section className="section hero bg-dark">
-        <img src="/avatar.jpg" alt="Matt Tylek" className="avatar" />
         <h1><span className="hero-highlight">Matt Tylek</span></h1>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
