@@ -9,14 +9,20 @@ function App() {
       <section className="section hero bg-dark">
         <img src="/avatar.jpg" alt="Matt Tylek" className="avatar" />
         <h1><span className="hero-highlight">Matt Tylek</span></h1>
-        <p>I build clean, fast, and modern websites that convert.</p>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+          Vivamus euismod, nunc et tincidunt efficitur, nisl nisl dapibus erat, sed aliquet lorem sapien in nulla.
+        </p>
         <a href="mailto:your@email.com" className="button">Work With Me</a>
       </section>
 
       {/* About Section */}
       <section className="section bg-light">
         <h2>About Me</h2>
-        <p>I’m a freelance web developer focused on performance, design, and usability. I partner with entrepreneurs and small businesses to launch meaningful digital experiences.</p>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+          Vivamus euismod, nunc et tincidunt efficitur, nisl nisl dapibus erat, sed aliquet lorem sapien in nulla.
+        </p>
       </section>
 
       {/* Services Section */}
@@ -41,7 +47,10 @@ function App() {
       {/* Contact Section */}
       <section className="section bg-light contact">
         <h2>Contact Me</h2>
-        <p>If you’re looking for a dependable developer to bring your vision to life — let’s talk.</p>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+          Vivamus euismod, nunc et tincidunt efficitur, nisl nisl dapibus erat, sed aliquet lorem sapien in nulla.
+        </p>
         <a href="mailto:your@email.com" className="button">Send Me an Email</a>
       </section>
 
