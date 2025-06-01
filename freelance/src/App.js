@@ -15,6 +15,7 @@ function App() {
         <a href="mailto:your@email.com" className="button">Work With Me</a>
       </section>
 
+
       {/* About Section */}
       <section className="section bg-light">
         <h2>About Me</h2>
