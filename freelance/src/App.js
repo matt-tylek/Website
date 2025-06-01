@@ -65,7 +65,7 @@ function App() {
 
       {/* Footer */}
       <footer className="section footer">
-        <p>&copy; {new Date().getFullYear()} Matt Tylek — Built with React</p>
+        <p>&copy; {new Date().getFullYear()} Matt Tylek</p>
       </footer>
     </main>
   );
